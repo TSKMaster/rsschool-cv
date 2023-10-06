@@ -32,6 +32,27 @@ Recently started to study frontend development. Very much like to code. I try my
 * Git, GitHub
 * VisualStudio Code, IntelliJ Idea
 ##
+### Code Example:
+
+**Credit Card Mask (7 kyu)** from CodeWars:
+
+"Your task is to write a function maskify, which changes all but the last four characters into '#'".
+```
+public class Maskify {
+    public static String maskify(String str) {
+
+        char[] charArray = str.toCharArray();
+        if(charArray.length >=4 ) {
+            for (int i = 0; i < charArray.length-4; i++) {
+              charArray[i] = '#';
+            }
+        }
+        String string = String.valueOf(charArray);
+        return string;
+    }
+}
+``````
+
  
 
 
