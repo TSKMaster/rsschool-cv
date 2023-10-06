@@ -52,6 +52,21 @@ public class Maskify {
     }
 }
 ``````
+***
+### Courses:
+* **Java Core** (GeekBrains) (completed)
+* **Android Developer** (GeekBrains) (in progress)
+* **HTML and CSS Tutorials** (w3schools) (in progress)
+* **JavaScript/Front-end. Stage 1** (RS School) (in progress)
+##
+
+### Languages:
+
+* **Russian** - Native
+* **English** - Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
+
+![EF test results](/img/english_test.png)
+
 
  
 
