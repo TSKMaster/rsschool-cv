@@ -10,7 +10,7 @@
 
 **E-mail:** tskmaster.web@gmail.com
 
-**Telegram:** @tskmast
+**Discord** tskmaster.web
 
 [**LinkedIn**](www.linkedin.com/in/tskmasterweb "LinkedIn Profile")
 ***
@@ -65,7 +65,7 @@ public class Maskify {
 * **Russian** - Native
 * **English** - Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
 
-![EF test results](/img/english_test.png)
+![EFset test results](/img/english_test.png)
 
 
  
