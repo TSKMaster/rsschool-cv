@@ -1,6 +1,7 @@
 # [rsschool-cv](# "CV Markdown&Git")
 
-## Trubitsyn Sergei
+## Trubitsyn Sergei 
+![My photo](/img/myPhoto.jpg)
 
 ### Junior Frontend Developer
 ***
@@ -21,6 +22,7 @@ In my spare time I repair computers, laptops and small household appliances.
 Since video surveillance is directly related to computer networks have basic knowledge in this area.
 
 Recently started to study frontend development. Very much like to code. I try myself in different areas. I like to learn something new.
+
 ***
 ### Skills and Profiency
 
