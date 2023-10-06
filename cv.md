@@ -1,4 +1,4 @@
-# [rsschool-cv](# "CV Marckdown&Git")
+# [rsschool-cv](# "CV Markdown&Git")
 
 ## Trubitsyn Sergei
 
@@ -13,4 +13,24 @@
 
 [**LinkedIn**](www.linkedin.com/in/tskmasterweb "LinkedIn Profile")
 ***
+### Briefly About Myself:
+I am an electronics technician by profession with almost 10 years of experience. At the moment I am engaged in installation of video surveillance cameras, security and fire alarm systems. 
+
+In my spare time I repair computers, laptops and small household appliances.
+
+Since video surveillance is directly related to computer networks have basic knowledge in this area.
+
+Recently started to study frontend development. Very much like to code. I try myself in different areas. I like to learn something new.
+***
+### Skills and Profiency
+
+* HTML5, CSS3
+* Java Core Basics
+* Android Studio Basics
+* Git, GitHub
+* VisualStudio Code, IntelliJ Idea
+##
+ 
+
+
 
