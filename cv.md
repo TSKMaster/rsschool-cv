@@ -4,17 +4,20 @@
 ![My photo](/img/myPhoto.jpg)
 
 ### Junior Frontend Developer
-***
-### Contact Information:
-**Phone:** +7 777 418 48 05 
 
-**E-mail:** tskmaster.web@gmail.com
+***
+
+### Contact Information:
+**Phone:** [+7 777 418 48 05](tel:+77774184805) 
+
+**E-mail:** [tskmaster.web@gmail.com](mailto:tskmaster.web@gmail.com)
 
 **Discord** tskmaster.web
 
 [**LinkedIn**](www.linkedin.com/in/tskmasterweb "LinkedIn Profile")
 
 ***
+
 ### Briefly About Myself:
 I am an electronics technician by profession with almost 10 years of experience. At the moment I am engaged in installation of video surveillance cameras, security and fire alarm systems. 
 
@@ -25,6 +28,7 @@ Since video surveillance is directly related to computer networks have basic kno
 Recently started to study frontend development. Very much like to code. I try myself in different areas. I like to learn something new.
 
 ***
+
 ### Skills and Profiency
 
 * HTML5, CSS3
@@ -34,6 +38,7 @@ Recently started to study frontend development. Very much like to code. I try my
 * VisualStudio Code, IntelliJ Idea
 
 ***
+
 ### Code Example:
 
 **Credit Card Mask (7 kyu)** from CodeWars:
@@ -53,9 +58,10 @@ public class Maskify {
         return string;
     }
 }
-``````
+```
 
 ***
+
 ### Courses:
 * **Java Core** (GeekBrains) (completed)
 * **Android Developer** (GeekBrains) (in progress)
@@ -63,6 +69,7 @@ public class Maskify {
 * **JavaScript/Front-end. Stage 1** (RS School) (in progress)
 
 ***
+
 ### Languages:
 
 * **Russian** - Native
