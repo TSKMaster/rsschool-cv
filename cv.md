@@ -13,6 +13,7 @@
 **Discord** tskmaster.web
 
 [**LinkedIn**](www.linkedin.com/in/tskmasterweb "LinkedIn Profile")
+
 ***
 ### Briefly About Myself:
 I am an electronics technician by profession with almost 10 years of experience. At the moment I am engaged in installation of video surveillance cameras, security and fire alarm systems. 
@@ -31,7 +32,8 @@ Recently started to study frontend development. Very much like to code. I try my
 * Android Studio Basics
 * Git, GitHub
 * VisualStudio Code, IntelliJ Idea
-##
+
+***
 ### Code Example:
 
 **Credit Card Mask (7 kyu)** from CodeWars:
@@ -52,14 +54,15 @@ public class Maskify {
     }
 }
 ``````
+
 ***
 ### Courses:
 * **Java Core** (GeekBrains) (completed)
 * **Android Developer** (GeekBrains) (in progress)
 * **HTML and CSS Tutorials** (w3schools) (in progress)
 * **JavaScript/Front-end. Stage 1** (RS School) (in progress)
-##
 
+***
 ### Languages:
 
 * **Russian** - Native
