@@ -1,4 +1,4 @@
-# [rsschool-cv](# "CV Markdown&Git")
+# [rsschool-cv](https://tskmaster.github.io/rsschool-cv/cv "CV Markdown&Git")
 
 ## Trubitsyn Sergei 
 ![My photo](/img/myPhoto.jpg)
